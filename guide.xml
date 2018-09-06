@@ -1,0 +1,2750 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECENE PREMIUN HD">
+    <display-name lang="pt">TELECENE PREMIUN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECIEN ACTION HD">
+    <display-name lang="pt">TELECIEN ACTION HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH HD">
+    <display-name lang="pt">TELECINE TOUCH HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECIEN FUN HD">
+    <display-name lang="pt">TELECIEN FUN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA HD">
+    <display-name lang="pt">TELECINE PIPOCA HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT HD">
+    <display-name lang="pt">TELECINE CULT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECENE PREMIUN SD">
+    <display-name lang="pt">TELECENE PREMIUN SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECIEN ACTION SD">
+    <display-name lang="pt">TELECIEN ACTION SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH SD">
+    <display-name lang="pt">TELECINE TOUCH SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECIEN FUN SD">
+    <display-name lang="pt">TELECIEN FUN SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA SD">
+    <display-name lang="pt">TELECINE PIPOCA SD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus">
+    <display-name lang="pt">HBO PLUS</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Plus *e">
+    <display-name lang="pt">HBO PLUS *E</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO SIGNATURE</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20180906021200 -0300" stop="20180906040000 -0300" channel="TCM">
+    <title lang="pt">Gremlins</title>
+    <desc lang="pt">O pai de Billy leva para casa um pequeno animal. Mas ele não pode ser exposto à luz ou à água e nem alimentado depois da meia-noite. Quando Billy desobedece as regras, toda a cidade se vê ameaçada pela travessa criatura(n)</desc>
+    <credits>
+      <director>Joe Dante</director>
+      <actor>Zach Galligan</actor>
+      <actor>Phoebe Cates</actor>
+      <actor>Hoyt Axton</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Corey Feldma</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906040000 -0300" stop="20180906051400 -0300" channel="TCM">
+    <title lang="pt">Oliver e seus Companheiros</title>
+    <desc lang="pt">Filme protagonizado por um pequeno gatinho que viverá uma história de ação, amizade e valor, ideal para toda a família(n)</desc>
+    <credits>
+      <director>George Scribner</director>
+      <actor>Vozes de Joseph Lawrence</actor>
+      <actor>Billy Joel</actor>
+      <actor>Cheech Marin</actor>
+      <actor>Richard Mulligan</actor>
+    </credits>
+    <date>1988</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906051400 -0300" stop="20180906060000 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como(n)</desc>
+    <credits>
+      <director>Rob Tapert</director>
+      <actor>Lucy Lawless</actor>
+      <actor>Renée O'Connor</actor>
+      <actor>Jeremy Roberts</actor>
+      <actor>Mervyn Smith</actor>
+    </credits>
+    <date>1999</date>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906060000 -0300" stop="20180906065000 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira: O Assassino Gigante</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como(n)</desc>
+    <credits>
+      <director>Gary Jones</director>
+      <actor>Lucy Lawless</actor>
+      <actor>Renee O'Connor</actor>
+      <actor>Emma Brunette</actor>
+      <actor>Dale Corlett</actor>
+      <actor>Dennis Hally</actor>
+      <actor>Brad Homan</actor>
+      <actor>John Leonard</actor>
+    </credits>
+    <date>1996</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906065000 -0300" stop="20180906071500 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família</title>
+    <desc lang="pt">A costa da Califórnia terá que esperar quando, em uma cidade fantasma, os Bundy e os D'Arcy pegam a(n)</desc>
+    <credits>
+      <director>Gerry Cohen</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Katey Sagal</actor>
+      <actor>Amanda Bearse</actor>
+      <actor>David Faustino</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Earl Billings</actor>
+      <actor>Sharyn Leavitt</actor>
+      <actor>Renee Tenison</actor>
+      <actor>Bobbie Brown</actor>
+    </credits>
+    <date>1991</date>
+    <episode-num system="onscreen">S5 E24</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906071500 -0300" stop="20180906074000 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família</title>
+    <desc lang="pt">Peg e Al devem decidir se dão seus últimos cem dólares a Bud, que foi convidado para ir à Casa Branca e se encontrar com o Presidente, ou para a Kelly, que tem a chance de se tornar(n)</desc>
+    <credits>
+      <director>Gerry Cohen</director>
+      <actor>Katey Sagal</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Amanda Bearse</actor>
+      <actor>Helena Apothaker</actor>
+      <actor>Christina Applegate</actor>
+      <actor>David Faustino</actor>
+      <actor>Heather Elizabeth Parkhurst</actor>
+      <actor>Rick Ford</actor>
+      <actor>Milt Tarver</actor>
+    </credits>
+    <date>1991</date>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906074000 -0300" stop="20180906080500 -0300" channel="TCM">
+    <title lang="pt">The Nanny: Primeiro Encontro</title>
+    <desc lang="pt">Maxwell convida Fran a um jantar exclusivo com o cantor Elton John(n)</desc>
+    <credits>
+      <director>Dorothy Lyman</director>
+      <actor>Fran Drescher</actor>
+      <actor>Daniel Davis</actor>
+      <actor>Charles Shaughnessy</actor>
+      <actor>Lauren Lane</actor>
+      <actor>Nicholle Tom</actor>
+      <actor>Benjamin Salisbury</actor>
+      <actor>Madeline Zima</actor>
+      <actor>Renée Taylor</actor>
+      <actor>Elton John</actor>
+    </credits>
+    <date>1997</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906080500 -0300" stop="20180906083000 -0300" channel="TCM">
+    <title lang="pt">The Nanny: Primeiro Encontro</title>
+    <desc lang="pt">Maxwell convida Fran a um jantar exclusivo com o cantor Elton John(n)</desc>
+    <credits>
+      <director>Dorothy Lyman</director>
+      <actor>Fran Drescher</actor>
+      <actor>Daniel Davis</actor>
+      <actor>Charles Shaughnessy</actor>
+      <actor>Lauren Lane</actor>
+      <actor>Nicholle Tom</actor>
+      <actor>Benjamin Salisbury</actor>
+      <actor>Madeline Zima</actor>
+      <actor>Renée Taylor</actor>
+      <actor>Elton John</actor>
+    </credits>
+    <date>1997</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906083000 -0300" stop="20180906092000 -0300" channel="TCM">
+    <title lang="pt">Xena: A Princesa Guerreira: O Assassino Gigante</title>
+    <desc lang="pt">Xena uma guerreira que já foi conhecida como(n)</desc>
+    <credits>
+      <director>Gary Jones</director>
+      <actor>Lucy Lawless</actor>
+      <actor>Renee O'Connor</actor>
+      <actor>Emma Brunette</actor>
+      <actor>Dale Corlett</actor>
+      <actor>Dennis Hally</actor>
+      <actor>Brad Homan</actor>
+      <actor>John Leonard</actor>
+    </credits>
+    <date>1996</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906092000 -0300" stop="20180906094500 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família</title>
+    <desc lang="pt">A costa da Califórnia terá que esperar quando, em uma cidade fantasma, os Bundy e os D'Arcy pegam a(n)</desc>
+    <credits>
+      <director>Gerry Cohen</director>
+      <actor>Ed O'Neill</actor>
+      <actor>Katey Sagal</actor>
+      <actor>Amanda Bearse</actor>
+      <actor>David Faustino</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Earl Billings</actor>
+      <actor>Sharyn Leavitt</actor>
+      <actor>Renee Tenison</actor>
+      <actor>Bobbie Brown</actor>
+    </credits>
+    <date>1991</date>
+    <episode-num system="onscreen">S5 E24</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906094500 -0300" stop="20180906101000 -0300" channel="TCM">
+    <title lang="pt">Um Amor de Família</title>
+    <desc lang="pt">Peg e Al devem decidir se dão seus últimos cem dólares a Bud, que foi convidado para ir à Casa Branca e se encontrar com o Presidente, ou para a Kelly, que tem a chance de se tornar(n)</desc>
+    <credits>
+      <director>Gerry Cohen</director>
+      <actor>Katey Sagal</actor>
+      <actor>Ed O'Neill</actor>
+      <actor>Amanda Bearse</actor>
+      <actor>Helena Apothaker</actor>
+      <actor>Christina Applegate</actor>
+      <actor>David Faustino</actor>
+      <actor>Heather Elizabeth Parkhurst</actor>
+      <actor>Rick Ford</actor>
+      <actor>Milt Tarver</actor>
+    </credits>
+    <date>1991</date>
+    <episode-num system="onscreen">S5 E18</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906101000 -0300" stop="20180906103500 -0300" channel="TCM">
+    <title lang="pt">The Nanny: Manhã Seguinte</title>
+    <desc lang="pt">Preocupada que Maxwell a abandone, Fran pede conselhos a sua prima Sheila(n)</desc>
+    <credits>
+      <director>Dorothy Lyman</director>
+      <actor>Fran Drescher</actor>
+      <actor>Daniel Davis</actor>
+      <actor>Charles Shaughnessy</actor>
+      <actor>Lauren Lane</actor>
+      <actor>Nicholle Tom</actor>
+      <actor>Benjamin Salisbury</actor>
+      <actor>Madeline Zima</actor>
+      <actor>Renée Taylor</actor>
+      <actor>Roseanne Barr</actor>
+    </credits>
+    <date>1997</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906103500 -0300" stop="20180906110000 -0300" channel="TCM">
+    <title lang="pt">The Nanny: Primeiro Encontro</title>
+    <desc lang="pt">Maxwell convida Fran a um jantar exclusivo com o cantor Elton John(n)</desc>
+    <credits>
+      <director>Dorothy Lyman</director>
+      <actor>Fran Drescher</actor>
+      <actor>Daniel Davis</actor>
+      <actor>Charles Shaughnessy</actor>
+      <actor>Lauren Lane</actor>
+      <actor>Nicholle Tom</actor>
+      <actor>Benjamin Salisbury</actor>
+      <actor>Madeline Zima</actor>
+      <actor>Renée Taylor</actor>
+      <actor>Elton John</actor>
+    </credits>
+    <date>1997</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906110000 -0300" stop="20180906130500 -0300" channel="TCM">
+    <title lang="pt">Tudo Acontece em Elizabethtown</title>
+    <desc lang="pt">Um homem em crise precisa retornar à sua cidade-natal por causa do funeral do pai. É quando ele conhece uma aeromoça que faz com que ele novamente acredite na vida(n)</desc>
+    <credits>
+      <director>Cameron Crowe</director>
+      <actor>Orlando Bloom</actor>
+      <actor>Kirsten Dunst</actor>
+      <actor>Susan Sarandon</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Jessica Biel</actor>
+      <actor>Judy Greer</actor>
+      <actor>Paul Schneider</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906130500 -0300" stop="20180906151000 -0300" channel="TCM">
+    <title lang="pt">Shakespeare Apaixonado</title>
+    <desc lang="pt">Os passos, as lutas e atribulações do jovem William Shakespeare. Sofrendo um terrível caso de bloqueio mental, o jovem aspirante a escritor apaixona-se por Viola, uma mulher que lhe devolve a criatividade(n)</desc>
+    <credits>
+      <director>John Madden</director>
+      <actor>Joseph Fiennes</actor>
+      <actor>Gwyneth Poltrow</actor>
+      <actor>Simon Callow</actor>
+      <actor>Colin Firth</actor>
+      <actor>Imelda Staunton</actor>
+      <actor>Geoffrey Rush</actor>
+      <actor>Tom Wilkinson</actor>
+      <actor>Anthony Sher</actor>
+      <actor>Judi Dench</actor>
+      <actor>Imelda Stauton</actor>
+      <actor>Steven Beard</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906151000 -0300" stop="20180906164300 -0300" channel="TCM">
+    <title lang="pt">Convenção das Bruxas</title>
+    <desc lang="pt">Luke adora as histórias da avó que sempre disse que bruxas existem. Após acidente em que seus pais morrem, ambos vão em temporada no litoral(n)</desc>
+    <credits>
+      <director>Nicolas Roeg</director>
+      <actor>Anjelica Huston</actor>
+      <actor>Mai Zetterling</actor>
+      <actor>Jasen Fisher</actor>
+      <actor>Rowan Atkinson</actor>
+      <actor>Brenda Blethyn</actor>
+      <actor>Jane Horrocks</actor>
+      <actor>Anne Lambton,Sukie Smith</actor>
+      <actor>Jenny Runacre</actor>
+      <actor>Charlie Potter</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906164300 -0300" stop="20180906183100 -0300" channel="TCM">
+    <title lang="pt">Gremlins</title>
+    <desc lang="pt">O pai de Billy leva para casa um pequeno animal. Mas ele não pode ser exposto à luz ou à água e nem alimentado depois da meia-noite. Quando Billy desobedece as regras, toda a cidade se vê ameaçada pela travessa criatura(n)</desc>
+    <credits>
+      <director>Joe Dante</director>
+      <actor>Zach Galligan</actor>
+      <actor>Phoebe Cates</actor>
+      <actor>Hoyt Axton</actor>
+      <actor>Judge Reinhold</actor>
+      <actor>Corey Feldma</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906183100 -0300" stop="20180906200600 -0300" channel="TCM">
+    <title lang="pt">Fla X Flu - 40 Minutos Antes do Nada</title>
+    <desc lang="pt">Com depoimentos de grandes nomes do futebol e comentários de torcedores apaixonados, além de raras imagens de arquivos, o filme conta a história da centenária rivalidade entre Flamengo e Fluminense(n)</desc>
+    <credits>
+      <director>Renato Terra</director>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906200600 -0300" stop="20180906220000 -0300" channel="TCM">
+    <title lang="pt">O Vingador do Futuro</title>
+    <desc lang="pt">Em 2084, os habitantes de Marte formam uma bizarra resistência aos domínios da Terra. O operário Dough Quaid é levado ao planeta(n)</desc>
+    <credits>
+      <director>Paul Verhoeven</director>
+      <actor>Arnold Schwarzenneger</actor>
+      <actor>Sharon Stone</actor>
+      <actor>Rachel Ticotin</actor>
+      <actor>Ronny Cox</actor>
+      <actor>Michael Ironside</actor>
+      <actor>Marshall Bell</actor>
+      <actor>Mel Johnson Jr</actor>
+      <actor>Michael Champion</actor>
+      <actor>Rosemary Dunsmore</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906235200 -0300" channel="TCM">
+    <title lang="pt">Um Tira no Jardim de Infância</title>
+    <desc lang="pt">Arnold Schwarzenegger é um policial disfarçado em professor de jardim da infância, com a missão de capturar um perigoso bandido(n)</desc>
+    <credits>
+      <director>Ivan Reitman</director>
+      <actor>Arnold Schwarzenegger</actor>
+      <actor>Penelope Ann Miller</actor>
+      <actor>Pamela Reed</actor>
+      <actor>Linda Hunt</actor>
+    </credits>
+    <date>1990</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906000500 -0300" stop="20180906021000 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Como Perder um Homem em 10 Dias</title>
+    <desc lang="pt">Ben aposta com o chefe, conquistar uma mulher em 10 dias. A vítima: repórter feminista, fazendo matéria sobre como perder um homem no mesmo período(n)</desc>
+    <credits>
+      <director>Donald Petrie</director>
+      <actor>Kate Hudson</actor>
+      <actor>Matthew McConaughey</actor>
+      <actor>Kathryn Hahn</actor>
+      <actor>Annie Parisse</actor>
+      <actor>Adam Goldberg</actor>
+      <actor>Thomas Lennon</actor>
+      <actor>Michael Michele</actor>
+      <actor>Shalon Harlow</actor>
+      <actor>Bebe Newirth</actor>
+      <actor>Archie MacGregor</actor>
+    </credits>
+    <date>2002</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906021000 -0300" stop="20180906040000 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Conflitos e Reencontros</title>
+    <desc lang="pt">Um acidente dentro de uma mina de carvão provoca a morte de todas as pessoas envolvidas exceto Amos. Enquanto os moradores da cidade vivem a dor da tragédia, um adolescente desaparece(n)</desc>
+    <credits>
+      <director>Sara Colangelo</director>
+      <actor>Elizabeth Banks</actor>
+      <actor>Boyd Holbrook</actor>
+      <actor>Jacob Lofland</actor>
+      <actor>Josh Lucas</actor>
+      <actor>James DeForest Parker</actor>
+      <actor>Alexia Rasmussen</actor>
+      <actor>Travis tope</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906040000 -0300" stop="20180906055000 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Santos e Demônios</title>
+    <desc lang="pt">Enquanto seus amigos acabam mortos, drogados ou presos, o jovem Dito cresce achando que foi salvo por santos nos quais só ele acredita(n)</desc>
+    <credits>
+      <director>Dito Montiel</director>
+      <actor>Dianne Wiest</actor>
+      <actor>Robert Downey Jr</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Melonie Diaz</actor>
+      <actor>Julia Garro</actor>
+      <actor>Eleonore Hendricks</actor>
+      <actor>Adam Scarimbolo</actor>
+      <actor>Peter Anthony Tambakis</actor>
+      <actor>Channing Tatum</actor>
+    </credits>
+    <date>2006</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906055000 -0300" stop="20180906080000 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">E Se...Você Tivesse Uma Segunda Chance</title>
+    <desc lang="pt">Há 15 anos, Ben Walker resolveu largar sua namorada de faculdade para seguir no mundo dos negócios. Ele recebe uma ajuda divina de um anjo, dizendo que ele tem uma nova chance de reviver o passado(n)</desc>
+    <credits>
+      <director>Dallas Jenkins</director>
+      <actor>Kevin Sorbo</actor>
+      <actor>Kristy Swanson</actor>
+      <actor>John Ratzenberger</actor>
+      <actor>Debby Ryan</actor>
+      <actor>Kristin Minter</actor>
+      <actor>Taylor Groothuis</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906080000 -0300" stop="20180906100500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Os Descendentes</title>
+    <desc lang="pt">O filme traz George Clooney no papel de Matt King, um chefe de família cuja esposa acaba de entrar em coma. No meio desta trágica situação, Matt é forçado a encarar seu próprio passado(n)</desc>
+    <credits>
+      <director>Alexander Payne</director>
+      <actor>George Clooney</actor>
+      <actor>Shailene Woodley</actor>
+      <actor>Amara Miller</actor>
+      <actor>Nick Krause</actor>
+      <actor>Patricia Hastie</actor>
+      <actor>Grace A. Cruz</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906100500 -0300" stop="20180906124500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Os Miseráveis</title>
+    <desc lang="pt">Jean Valjean, um ex-presidiário, precisa cuidar de uma menininha enquanto foge das mãos de um inspetor de polícia que o quer na prisão. Um musical que se tornou um clássico, vencedor de três prêmios Oscar(n)</desc>
+    <credits>
+      <director>Tom Hooper</director>
+      <actor>Hugh Jackman</actor>
+      <actor>Russell Crowe</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Sacha Baron Cohen</actor>
+      <actor>Helena Bonham Carter</actor>
+    </credits>
+    <date>2012</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906124500 -0300" stop="20180906142500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Hope Springs - Um Lugar para Sonhar</title>
+    <desc lang="pt">Colin Ware é um artista plástico que descobre que sua noiva o deixou por outro homem. Desolado, ele vai para Hope Springs, para se isolar do mundo(n)</desc>
+    <credits>
+      <director>Mark Herman</director>
+      <actor>Colin Firth</actor>
+      <actor>Heather Graham</actor>
+      <actor>Minnie Driver</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Frank Collison</actor>
+      <actor>Oliver Platt</actor>
+      <actor>Mary Black</actor>
+    </credits>
+    <date>2003</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906142500 -0300" stop="20180906163500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">O Melhor Jogo da História</title>
+    <desc lang="pt">Baseado em fatos reais, o filme conta a história de Francis Ouimet, jovem de 20 anos que venceu o torneio US Open de Golfe, em 1913. Na ocasião, ele derrotou Harry Vardon, seu maior ídolo e um dos favoritos a ganhar a competição(n)</desc>
+    <credits>
+      <director>Bill Paxton</director>
+      <actor>Shia Labeouf</actor>
+      <actor>Stephen Dillane</actor>
+      <actor>Josh Flitter</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906163500 -0300" stop="20180906181500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Dia de Casamento 3</title>
+    <desc lang="pt">É o fim de semana do Dia dos Namorados, quando Olivia e Mick hospedam suas famílias(n)</desc>
+    <credits>
+      <director>David Weaver</director>
+      <actor>Josie Bissett</actor>
+      <actor>Jack Wagner</actor>
+      <actor>Sarah Grey</actor>
+    </credits>
+    <date>2018</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906181500 -0300" stop="20180906200000 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Travessia</title>
+    <desc lang="pt">Roberto acabou de perder a esposa e está solitário e infeliz. Além disso, o relacionamento com seu único filho, Júlio, vai de mal a pior. Um dia, após se embebedar, ele acaba atropelando um garoto(n)</desc>
+    <credits>
+      <director>João Gabriel</director>
+      <actor>Camilla Camargo</actor>
+      <actor>Caio Castro</actor>
+      <actor>Cyria Coentro</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906200000 -0300" stop="20180906220000 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">O Jovem Messias</title>
+    <desc lang="pt">Jesus vive com sua família em Alexandria, Egito, onde eles fugiram para evitar o massacre de crianças pelo Rei Herodes de Israel. Jesus sabe que seus pais, José e Maria, mantêm segredos sobre seu nascimento(n)</desc>
+    <credits>
+      <director>Cyrus Nowrasteh</director>
+      <actor>Adam Greaves-Neal</actor>
+      <actor>Sara Lazzaro</actor>
+      <actor>Vincent Walsh</actor>
+      <actor>Finn Ireland</actor>
+      <actor>Christian McKay</actor>
+      <actor>Agni Scott</actor>
+      <actor>Lois Ellington</actor>
+      <actor>Jane Lapotaire</actor>
+      <actor>Duné Medros</actor>
+      <actor>Rory Keenan</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906235500 -0300" channel="TELECINE TOUCH HD">
+    <title lang="pt">Enquanto Você Dormia</title>
+    <desc lang="pt">Atrás de um guichê do metrô, Lucy leva uma vida solitária. Sua grande alegria é ver o charmoso advogado Peter passar sempre apressado pela roleta(n)</desc>
+    <credits>
+      <director>Jon Turteltaub</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Bill Pullman</actor>
+      <actor>Peter Gallagher</actor>
+      <actor>Peter Boyle</actor>
+      <actor>Glynis Johns</actor>
+      <actor>Jack Warden</actor>
+      <actor>Micole Mercurio</actor>
+      <actor>Jason Bernard</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Ally Walker</actor>
+      <actor>Monica Keena</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906021000 -0300" stop="20180906035000 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">O Culto de Chucky</title>
+    <desc lang="pt">Após investigações, a polícia ficou convencida de que foi Nica que assassinou sua família, quando na verdade o crime foi cometido pelo boneco assassino Chucky(n)</desc>
+    <credits>
+      <director>Don Mancini</director>
+      <actor>Allison Dawn Doiron</actor>
+      <actor>Alex Vincent</actor>
+      <actor>Brad Dourif</actor>
+      <actor>Fiona Dourif</actor>
+      <actor>Dan De Jaeger</actor>
+      <actor>Michael Therriault</actor>
+      <actor>Elisabeth Rosen</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906035000 -0300" stop="20180906060500 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">Stonewall - Onde o Orgulho Começou</title>
+    <desc lang="pt">Nos anos 1960, após ser expulso pelo pai por ser gay, o jovem Danny sai do interior para Nova York. Ele vai parar na Rua Christopher e é acolhido por um grupo LGBT(n)</desc>
+    <credits>
+      <director>Roland Emmerich</director>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>Jeremy Irvine</actor>
+      <actor>Jonny Beauchamp</actor>
+      <actor>David Cubitt</actor>
+      <actor>Andrea Frankle</actor>
+      <actor>Alex C. Nachi</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906060500 -0300" stop="20180906080000 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">Aventura Perigosa</title>
+    <desc lang="pt">Miles e Liam, que são irmãos, orquestram um falso desaparecimento na região selvagem do Alasca para ter uma grande história de sobrevivência e poder lucrar com isso. Mas as coisas não saem como planejado.(n)</desc>
+    <credits>
+      <director>Richard Gray</director>
+      <actor>Jason Momoa</actor>
+      <actor>Anna Hutchison</actor>
+      <actor>Cary Elwes</actor>
+      <actor>Melora Walters</actor>
+      <actor>Haley Webb</actor>
+      <actor>Drew Roy</actor>
+      <actor>John Teague</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906080000 -0300" stop="20180906100000 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">Um Negócio Brilhante</title>
+    <desc lang="pt">Dennis consegue liberdade condicional. Quando ele volta para casa, se depara com duas notícias: sua esposa agora é namorada de seu amigo Rene, e sua filha acha que ele morreu(n)</desc>
+    <credits>
+      <director>Phil Morrison</director>
+      <actor>Paul Rudd</actor>
+      <actor>Paul Giamatti</actor>
+      <actor>Sally Hawkins</actor>
+      <actor>Amy Landecker</actor>
+      <actor>Tatyana Richaud</actor>
+      <actor>Adam Phillips</actor>
+      <actor>Michael Drayer</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906100000 -0300" stop="20180906115500 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">O Halloween de Madea</title>
+    <desc lang="pt">Enquanto precisa vigiar um grupo de adolescentes malcomportados, Madea acaba no meio de várias assombrações(n)</desc>
+    <credits>
+      <director>Tyler Perry</director>
+      <actor>Bella Thorne</actor>
+      <actor>Tyler Perry</actor>
+      <actor>Cassi Davis</actor>
+      <actor>Patrice Lovely</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906115500 -0300" stop="20180906135000 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">A Qualquer Custo</title>
+    <desc lang="pt">Toby e Tanner são irmãos que, pressionados pela proximidade da hipoteca da fazenda da família, resolvem assaltar bancos para obter a quantia necessária ao pagamento(n)</desc>
+    <credits>
+      <director>David Mackenzie</director>
+      <actor>Dale Dickey</actor>
+      <actor>Ben Foster</actor>
+      <actor>Chris Pine</actor>
+      <actor>William Sterchi</actor>
+      <actor>Buck Taylor</actor>
+      <actor>Kristin Berg</actor>
+      <actor>Jeff Bridges</actor>
+      <actor>Gil Birmingham</actor>
+      <actor>Jackamoe Buzzell</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906135000 -0300" stop="20180906160000 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">Alien: Covenant</title>
+    <desc lang="pt">2104. Viajando pela galáxia, a nave colonizadora Covenant, com destino a um planeta remoto, descobre um paraíso inexplorado com uma ameaça e devem tentar uma fuga angustiante(n)</desc>
+    <credits>
+      <director>Ridley Scott</director>
+      <actor>Billy Crudup</actor>
+      <actor>Michael Fassbender</actor>
+      <actor>Katherine Waterston</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906160000 -0300" stop="20180906181500 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">Rainha de Katwe</title>
+    <desc lang="pt">A vida de Phiona muda quando ela assiste por acaso a uma aula de xadrez, iniciando uma carreira promissora e buscando se tornar uma das melhores jogadoras do mundo(n)</desc>
+    <credits>
+      <director>Mira Nair</director>
+      <actor>Lupita Nyong'o</actor>
+      <actor>David Oyelowo</actor>
+      <actor>Madina Nalwanga</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906181500 -0300" stop="20180906200000 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">Pica-Pau: O Filme</title>
+    <desc lang="pt">Lance Walters é um advogado que não se importa com a natureza. Junto com sua esposa Vanessa, ele decide construir uma mansão no meio da floresta(n)</desc>
+    <credits>
+      <director>Alex Zamm</director>
+      <actor>Timothy Omundson</actor>
+      <actor>Thaila Ayala</actor>
+      <actor>Graham Verchere</actor>
+      <actor>Eric Bauza</actor>
+      <actor>Chelsea Miller</actor>
+      <actor>Jakob Davies</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906200000 -0300" stop="20180906220000 -0300" channel="TELECINE PIPOCA HD">
+    <title lang="pt">O Círculo</title>
+    <desc lang="pt">Quando começa a trabalhar na empresa de tecnologia O Círculo, a jovem Mae realiza um sonho. Ela logo se torna uma de suas melhores funcionárias(n)</desc>
+    <credits>
+      <director>James Ponsoldt</director>
+      <actor>Emma Watson</actor>
+      <actor>Tom Hanks</actor>
+      <actor>John Boyega</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906000000 -0300" stop="20180906034000 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Exodus</title>
+    <desc lang="pt">Durante a segunda guerra mundial, grupo de judeus refugiados desembarcam em terras israelenses para a libertação da Palestina. Orientados pelos britânicos a desistirem, não aceitam e mostram resitência aos ataques vizinhos(n)</desc>
+    <credits>
+      <director>Otto Preminger</director>
+      <actor>Paul Newman</actor>
+      <actor>Eva Marie Saint</actor>
+      <actor>Ralph Richardson</actor>
+      <actor>Peter Lawford</actor>
+      <actor>\tLee J. Cobb</actor>
+      <actor>Sal Mineo</actor>
+      <actor>John Derek</actor>
+    </credits>
+    <date>1960</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906034000 -0300" stop="20180906054500 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Os Brutos Também Amam</title>
+    <desc lang="pt">Shane é um criminoso enigmático que está decidido a levar uma vida pacífica. Envolvido pela história de um menino, Shane volta a fazer justiça com suas próprias mãos(n)</desc>
+    <credits>
+      <director>George Stevens</director>
+      <actor>Alan Ladd</actor>
+      <actor>Jean Arthur</actor>
+      <actor>Van Heflin</actor>
+      <actor>Brandon De Wilde</actor>
+      <actor>Jack Palance</actor>
+      <actor>Ben Johnson</actor>
+    </credits>
+    <date>1953</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906054500 -0300" stop="20180906072000 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Tempos Modernos</title>
+    <desc lang="pt">Esgotado pela mecanização da rotina de trabalho, operário causa tumulto na fábrica onde trabalha. Demitido, tenta sobreviver em meio aos conflitos da metrópole moderna(n)</desc>
+    <credits>
+      <director>Charles Chaplin</director>
+      <actor>Charles Chaplin</actor>
+      <actor>Paulette Goddard</actor>
+      <actor>Henry Bergman</actor>
+      <actor>Tiny Sandford</actor>
+      <actor>Chester Conklin</actor>
+      <actor>Hank Mann</actor>
+      <actor>Stanley Blystone</actor>
+      <actor>Al Ernest Garcia</actor>
+      <actor>Richard Alexander</actor>
+    </credits>
+    <date>1936</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906072000 -0300" stop="20180906091000 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Curso de Verão</title>
+    <desc lang="pt">Freddy Shoop é um legitimo professor desleixado que quer apenas curtir suas férias e pegar umas ondas no Havaí, porém tem seus planos atrapalhados(n)</desc>
+    <credits>
+      <director>Carl Reiner</director>
+      <actor>Mark Harmon</actor>
+      <actor>Kirstie Alley</actor>
+      <actor>Robin Thomas</actor>
+      <actor>Patrick Labyorteaux</actor>
+      <actor>Courtney Thorne-Smith</actor>
+      <actor>Dean Cameron</actor>
+      <actor>Gary Riley</actor>
+    </credits>
+    <date>1987</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906091000 -0300" stop="20180906112500 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Tubarão</title>
+    <desc lang="pt">Quando um grande tubarão-branco começa a atacar banhistas numa praia da Nova Inglaterra, o chefe de polícia local, um especialista em tubarões e um pescador durão embarcam numa missão perigosa para caçar a criatura(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Roy Scheider</actor>
+      <actor>Robert Shaw</actor>
+      <actor>Richard Dreyfuss</actor>
+      <actor>Lorraine Gary</actor>
+      <actor>Murray Hamilton</actor>
+      <actor>Carl Gottlieb</actor>
+      <actor>Jeffrey Kramer</actor>
+      <actor>Jonathan Filley</actor>
+      <actor>Ted Grossman</actor>
+      <actor>Jay Mello</actor>
+      <actor>Lee Fierro</actor>
+    </credits>
+    <date>1975</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906112500 -0300" stop="20180906134000 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Ponto Final - Match Point</title>
+    <desc lang="pt">Ex-tenista fica amigo de Tom e, casa-se com sua irmã. Mas as coisas se complicam quando ele começa a ter desejos pela namorada de Tom(n)</desc>
+    <credits>
+      <director>Woody Allen</director>
+      <actor>Jonathan Rhys Meyers</actor>
+      <actor>Scarlett Johansson</actor>
+      <actor>Emily Mortimer</actor>
+      <actor>Paul Kaye</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Janis Kelly</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906134000 -0300" stop="20180906155500 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Desbravando o Oeste</title>
+    <desc lang="pt">O senador William Tadlock lidera uma caravana com colonizadores até o estado de Oregon através de território indígena(n)</desc>
+    <credits>
+      <director>Andrew V. McLagen</director>
+      <actor>Kirk Douglas</actor>
+      <actor>Robert Mitchum</actor>
+      <actor>Richard Widmark</actor>
+      <actor>Lola Albright</actor>
+      <actor>Sally Field</actor>
+      <actor>Katherine Justice</actor>
+      <actor>Jack Elam</actor>
+      <actor>Michael McGreevey</actor>
+      <actor>Connie Sawyer</actor>
+      <actor>Michael Witney</actor>
+      <actor>Elisabeth Fraser</actor>
+    </credits>
+    <date>1967</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906155500 -0300" stop="20180906180000 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Insensata Paixão</title>
+    <desc lang="pt">Presa e aguardando seu julgamento, Anna conhece o diretor da prisão, Jean, por quem se apaixona. Casado e com uma família, Jean passa por cima de tudo e os dois vivem um improvável e intenso relacionamento(n)</desc>
+    <credits>
+      <director>Pierre Godeau</director>
+      <actor>Guillaume Gallienne</actor>
+      <actor>Adèle Exarchopoulos</actor>
+      <actor>Stéphanie Cléau</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906180000 -0300" stop="20180906195500 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Em Algum Lugar do Passado</title>
+    <desc lang="pt">Jovem escritor descobre um meio para voltar no tempo para encontrar uma famosa atriz do teatro, que pode ser o amor de sua vida(n)</desc>
+    <credits>
+      <director>Jeannot Szwarc</director>
+      <actor>Christopher Reeve</actor>
+      <actor>Jane Seymour</actor>
+      <actor>Christopher Plummer</actor>
+      <actor>Teresa Wright</actor>
+      <actor>Bill Erwin</actor>
+      <actor>George Voskovec</actor>
+      <actor>Susan French</actor>
+      <actor>John Alvin</actor>
+      <actor>Eddra Gale</actor>
+      <actor>William H. Macy</actor>
+    </credits>
+    <date>1980</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906195500 -0300" stop="20180906220000 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Zama</title>
+    <desc lang="pt">No fim do século XVIII, Don Diego de Zama é um oficial da Coroa Espanhola que deseja partir para Buenos Aires(n)</desc>
+    <credits>
+      <director>Lucrecia Martel</director>
+      <actor>Daniel Giménez Cacho</actor>
+      <actor>Lola Dueñas</actor>
+      <actor>Matheus Nachtergaele</actor>
+      <actor>Juan Minujín</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906235500 -0300" channel="TELECINE CULT HD">
+    <title lang="pt">Tudo Sobre Minha Mãe</title>
+    <desc lang="pt">Manuela vive sozinha com o filho adolescente e se recusa a revelar ao jovem informações sobre seu pai. Uma noite, o garoto é atropelado e morre. Depois disso, ela começa sua jornada à procura do pai do garoto(n)</desc>
+    <credits>
+      <director>Pedro Almodóvar</director>
+      <actor>Cecilia Roth</actor>
+      <actor>Penélope Cruz</actor>
+      <actor>Marisa Paredes</actor>
+      <actor>Candela Peña</actor>
+      <actor>Antonia San Juan</actor>
+      <actor>Rosa Maria Sardà</actor>
+      <actor>Fernando Fernán Gómez</actor>
+      <actor>Fernando Guillén</actor>
+      <actor>Toni Cantó</actor>
+      <actor>Eloy Azorín</actor>
+      <actor>Carlos Lozano</actor>
+      <actor>Manuel Morón</actor>
+      <actor>José Luis Torrijo</actor>
+      <actor>Juan José Otegui</actor>
+      <actor>Carmen Balagué</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906000000 -0300" stop="20180906010500 -0300" channel="HBO">
+    <title lang="pt">Sr. Ávila</title>
+    <desc lang="pt">Em sua temporada final, Senhor Ávila retorna para se vingar, resolver os conflitos com seus demônios internos e tratar de acabar com uma organização secreta e aparentemente inalcançável(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180906010500 -0300" stop="20180906025000 -0300" channel="HBO">
+    <title lang="pt">Caçada</title>
+    <desc lang="pt">Um fascinante e profundo relato sobre a caçada a Osama bin Laden, através de testemunhas dos analistas e agentes da CIA, que o seguiram por quase duas décadas(n)</desc>
+    <credits>
+      <director>Greg Barker</director>
+      <actor>Nada Bakos</actor>
+    </credits>
+    <date>2013</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906025000 -0300" stop="20180906054000 -0300" channel="HBO">
+    <title lang="pt">Docinho da América</title>
+    <desc lang="pt">A adolescente Star foge de sua problemática casa para se unir a um bando de desajustados que vão dirigindo através dos EUA enquanto vendem assinaturas de revistas de porta em porta(n)</desc>
+    <credits>
+      <director>Andrea Arnold</director>
+      <actor>Sasha Lane</actor>
+      <actor>Shia LaBeouf</actor>
+      <actor>Riley Keough</actor>
+      <actor>McCaul Lombardi</actor>
+      <actor>Crystal Ice</actor>
+      <actor>Kenneth Kory Tucker</actor>
+      <actor>Chad Cox</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906054000 -0300" stop="20180906071500 -0300" channel="HBO">
+    <title lang="pt">Dentro de Casa: O Dilema do Contra-Terrorismo</title>
+    <desc lang="pt">O documentário conta com a direção de Greg Barker, produção de John Battsek, Julie Goldman e Greg Barker e produção executiva de Peter Bergen(n)</desc>
+    <credits>
+      <director>Greg Barker</director>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906071500 -0300" stop="20180906095500 -0300" channel="HBO">
+    <title lang="pt">Império do Sol</title>
+    <desc lang="pt">A Segunda Guerra Mundial vista através dos olhos de um garoto, filho de funcionário inglês, feito prisioneiro num campo de concentração japonês(n)</desc>
+    <credits>
+      <director>Steven Spielberg</director>
+      <actor>Cristian Bale</actor>
+      <actor>John Malkovich</actor>
+      <actor>Nigel Havers</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Miranda Richardson</actor>
+      <actor>Leslie Phillips</actor>
+      <actor>Masatô Ibu</actor>
+      <actor>Emily Richard</actor>
+      <actor>Rupert Frazer</actor>
+      <actor>Peter Gale</actor>
+      <actor>Takatoro Kataoka</actor>
+    </credits>
+    <date>1987</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906095500 -0300" stop="20180906114000 -0300" channel="HBO">
+    <title lang="pt">O Mestre dos Gênios</title>
+    <desc lang="pt">Thomas Wolfe é um escritor talentoso, mas incapaz de lidar com sua criatividade. Wolfe decide recorrer ao editor Maxwell Perkins para divulgar seu manuscrito(n)</desc>
+    <credits>
+      <director>Michael Grandage</director>
+      <actor>Colin Firth</actor>
+      <actor>Jude Law</actor>
+      <actor>Nicole Kidman</actor>
+      <actor>Laura Linney</actor>
+      <actor>Guy Pearce</actor>
+      <actor>Dominic West</actor>
+      <actor>Vanessa Kirby</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906114000 -0300" stop="20180906133500 -0300" channel="HBO">
+    <title lang="pt">Dunkirk</title>
+    <desc lang="pt">Na Operação Dínamo, soldados aliados da Bélgica, do Império Britânico e da França são rodeados pelo exército alemão e devem ser resgatados durante uma feroz batalha no início da Segunda Guerra Mundial(n)</desc>
+    <credits>
+      <director>Christopher Nolan</director>
+      <actor>Fionn Whitehead</actor>
+      <actor>Damien Bonnard</actor>
+      <actor>Aneurin Barnard</actor>
+      <actor>Lee Armstrong</actor>
+      <actor>James Bloor</actor>
+      <actor>Barry Keoghan</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906133500 -0300" stop="20180906154000 -0300" channel="HBO">
+    <title lang="pt">Marshall: Igualdade e Justiça</title>
+    <desc lang="pt">Antes de se tornar o primeiro juiz negro da Corte Suprema Americana, Thurgood Marshall deve lutar num caso pode definir sua carreira: defender Josepho Spell, um negro acusado de atacar uma socialite branca em seu quarto(n)</desc>
+    <credits>
+      <director>Reginald Hudlin</director>
+      <actor>Chadwick Boseman</actor>
+      <actor>Josh Gad</actor>
+      <actor>Kate Hudson</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Dan Stevens</actor>
+      <actor>James Cromwell</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906154000 -0300" stop="20180906174000 -0300" channel="HBO">
+    <title lang="pt">Juntos Pelo Acaso</title>
+    <desc lang="pt">Holly e Eric têm um encontro desastroso organizado por seus amigos Peter e Allison. Mas quando seus amigos morrem em um acidente, Holly e Eric terão que deixar de lado suas diferenças para cuidar da pequena Sophie(n)</desc>
+    <credits>
+      <director>Greg Berlanti</director>
+      <actor>Katherine Heigl</actor>
+      <actor>Josh Duhamel</actor>
+      <actor>Josh Lucas</actor>
+      <actor>Christina Hendricks</actor>
+      <actor>DeRay Davis</actor>
+      <actor>Majandra Delfino</actor>
+      <actor>Brooke Clagett</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906174000 -0300" stop="20180906191500 -0300" channel="HBO">
+    <title lang="pt">A Casa Caiu: Um Cassino na Vizinhança</title>
+    <desc lang="pt">Após gastar todo o dinheiro guardado no fundo destinado para pagar a faculdade de sua filha, um homem reúne seus amigos para montar um cassino ilegal em seu porão como forma de recuperar a grana(n)</desc>
+    <credits>
+      <director>Andrew Jay Cohen</director>
+      <actor>Will Ferrell</actor>
+      <actor>Amy Poehler</actor>
+      <actor>Jason Mantzoukas</actor>
+      <actor>Ryan Simpkins</actor>
+      <actor>Nick Kroll</actor>
+      <actor>Allison Tolman</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906191500 -0300" stop="20180906210000 -0300" channel="HBO">
+    <title lang="pt">Quase Irmãos</title>
+    <desc lang="pt">Dois rapazes mimados tornam-se os irmãos competidores quando o pai de um e a mãe do outro decidem se casar(n)</desc>
+    <credits>
+      <director>Adam McKay</director>
+      <actor>Will Ferrell</actor>
+      <actor>John C. Reilly</actor>
+      <actor>Richard Jenkins</actor>
+      <actor>Mary Steenburgen</actor>
+      <actor>Adam Scott</actor>
+      <actor>Kathryn Hahn</actor>
+      <actor>Andrea Savage</actor>
+      <actor>Lurie Poston</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906210000 -0300" stop="20180906220000 -0300" channel="HBO">
+    <title lang="pt">O Negro no Futebol Brasileiro</title>
+    <desc lang="pt">Em 38, o Brasil leva para a Copa do Mundo uma seleção com jogadores negros e brancos, mostra, pela primeira vez, o estilo brasileiro de jogar futebol, e Leônidas da Silva vira o primeiro grande astro do futebol nacional(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906230000 -0300" channel="HBO">
+    <title lang="pt">Michelle Wolf: Nice Lady</title>
+    <desc lang="pt">Michelle Wolf trata de diversos temas, como por que Hillary não poderia ser uma boa senhora e presidente ao mesmo tempo, como expulsar homens com textos sem sentido e muito mais(n)</desc>
+    <credits>
+      <director>Neal Brennan</director>
+      <actor>Michelle Wolf</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906230000 -0300" stop="20180907000000 -0300" channel="HBO">
+    <title lang="pt">Sr. Ávila</title>
+    <desc lang="pt">Em sua temporada final, Senhor Ávila retorna para se vingar, resolver os conflitos com seus demônios internos e tratar de acabar com uma organização secreta e aparentemente inalcançável(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180906000000 -0300" stop="20180906020000 -0300" channel="HBO 2">
+    <title lang="pt">Fome de Poder</title>
+    <desc lang="pt">Ray Kroc descobre o restaurante de fast-food operado pelos irmãos McDonald no sul da Califórnia no final dos anos 50. Impressionado com o potencial do empreendimento, o ambicioso faz de tudo para assumir o controle do negócio(n)</desc>
+    <credits>
+      <director>John Lee Hancock</director>
+      <actor>Nick Offerman</actor>
+      <actor>Laura Dern</actor>
+      <actor>Griff Furst</actor>
+      <actor>Michael Keaton</actor>
+      <actor>John Carroll Lynch</actor>
+      <actor>Linda Cardellini</actor>
+      <actor>B.J. Novak</actor>
+      <actor>Patrick Wilson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906020000 -0300" stop="20180906034000 -0300" channel="HBO 2">
+    <title lang="pt">Feed: O Gosto do Amor</title>
+    <desc lang="pt">Olivia e Matthew Grey são irmãos gêmeos de 18 anos. Os dois são muito conectados um com o outro, mas, à medida que se prepararm para o último ano de colégio, uma tragédia inesperada os separam(n)</desc>
+    <credits>
+      <director>Tommy Bertelsen</director>
+      <actor>Troian Bellisario</actor>
+      <actor>Tom Felton</actor>
+      <actor>Ben Winchell</actor>
+      <actor>James Remar</actor>
+      <actor>Paula Malcomson</actor>
+      <actor>Tiffany Boone</actor>
+      <actor>Julia Boyd</actor>
+      <actor>Chamberlain Curto</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906034000 -0300" stop="20180906053000 -0300" channel="HBO 2">
+    <title lang="pt">O Poder do Amor</title>
+    <desc lang="pt">Grace é a esposa perfeita, se dedica aos filhos e participa de eventos de caridade. Tem uma vida maravilhosa, até flagrar o marido beijando outra(n)</desc>
+    <credits>
+      <director>Lasse Hallström</director>
+      <actor>Julia Roberts</actor>
+      <actor>Robert Duvall</actor>
+      <actor>Gena Rowlands</actor>
+      <actor>Kyra Sedgwick</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Brett Cullen</actor>
+      <actor>Haley Aull</actor>
+      <actor>Anne Shropshire</actor>
+      <actor>Ginnie Randall</actor>
+      <actor>Rebecca Koon</actor>
+      <actor>Rhoda Griffis</actor>
+    </credits>
+    <date>1995</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906053000 -0300" stop="20180906072000 -0300" channel="HBO 2">
+    <title lang="pt">As Loucas Aventuras de James West</title>
+    <desc lang="pt">Dois homens com personalidades diferentes são recrutados para uma missão super especial: neutralizar um psicótico que deseja matar o Presidente dos EUA(n)</desc>
+    <credits>
+      <director>Barry Sonnenfeld</director>
+      <actor>Will Smith</actor>
+      <actor>Kevin Kline</actor>
+      <actor>Kenneth Brannagh</actor>
+      <actor>Salma Hayek</actor>
+      <actor>M. Emmet Walsh</actor>
+      <actor>Ted Levine</actor>
+      <actor>Frederique Van Der Wal</actor>
+      <actor>Musetta Vander</actor>
+      <actor>Sofia Eng</actor>
+      <actor>Ling Bai</actor>
+      <actor>Garcelle Beauvais</actor>
+    </credits>
+    <date>1999</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906072000 -0300" stop="20180906075500 -0300" channel="HBO 2">
+    <title lang="pt">Salvar Meu Amanhã: Parte 02</title>
+    <desc lang="pt">A segunda parte deste especial original HBO mostra às crianças como a mudança climática afeta todas as formas de vida no planeta. Animação e ciência mostram o lado divertido do ativismo ecológico(n)</desc>
+    <credits>
+      <actor>Jeffrey Wright</actor>
+      <actor>Liam Neeson</actor>
+      <actor>Tina Fey</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906075500 -0300" stop="20180906094500 -0300" channel="HBO 2">
+    <title lang="pt">Lego Ninjago: O Filme</title>
+    <desc lang="pt">Lloyd, Nya, Cole, Jay, Zane e Kai são jovens adolescentes, que dividem as tarefas escolares com o alter-ego como super-heróis ninja, sempre prontos a proteger a cidade de Ninjago dos ataques feitos pelo megavilão Garmadon(n)</desc>
+    <credits>
+      <director>Charlie Bean</director>
+      <director>Paul Fisher</director>
+      <actor>Vozes de Jackie Chan</actor>
+      <actor>Dave Franco</actor>
+      <actor>Fred Armisen</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Michael Peña</actor>
+      <actor>Abbi Jacobson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906094500 -0300" stop="20180906113000 -0300" channel="HBO 2">
+    <title lang="pt">As Panteras</title>
+    <desc lang="pt">Natalie, Dylan e Alex são chamadas para resolver um caso de espionagem, envolvendo um software de reconhecimento de voz(n)</desc>
+    <credits>
+      <director>Joseph McGinty Nichol</director>
+      <actor>Drew Barrymore</actor>
+      <actor>Cameron Diaz</actor>
+      <actor>Lucy Liu</actor>
+      <actor>John Forsythe</actor>
+      <actor>Bill Murray</actor>
+      <actor>Tim Curry</actor>
+      <actor>Sam Rockwell</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Kelly Lynch</actor>
+      <actor>Tom Green</actor>
+      <actor>Luke Wilson</actor>
+      <actor>Crispin Glover</actor>
+      <actor>LL Cool J</actor>
+    </credits>
+    <date>2000</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906113000 -0300" stop="20180906132000 -0300" channel="HBO 2">
+    <title lang="pt">Chips - O Filme</title>
+    <desc lang="pt">Jon é um motociclista que tenta salvar seu casamento, enquanto Frank é um agente que investiga o roubo onde alguns policiais estão envolvidos(n)</desc>
+    <credits>
+      <director>Dax Shepard</director>
+      <actor>Michael Peña</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Adam Brody</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Jane Kaczmarek</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906132000 -0300" stop="20180906151500 -0300" channel="HBO 2">
+    <title lang="pt">O Homem Que Viu o Infinito</title>
+    <desc lang="pt">Srinavasa Ramanujan é um jovem solitário gênio da matemática. Decidido a seguir sua paixão apesar da rejeição, Ramanujan contata G. H. Hardy, um eminente matemático britânico, para que o leve a Cambridge(n)</desc>
+    <credits>
+      <director>Matthew A. Brown</director>
+      <actor>Jeremy Irons</actor>
+      <actor>Dev Patel</actor>
+      <actor>Stephen Fry</actor>
+      <actor>Pádraic Delaney</actor>
+      <actor>Toby Jones</actor>
+      <actor>Jeremy Northam</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906151500 -0300" stop="20180906171500 -0300" channel="HBO 2">
+    <title lang="pt">O Ritual</title>
+    <desc lang="pt">O longa narra a história do cético seminarista Michael, que frequenta uma escola de exorcismo no Vaticano. Sua vida muda quando ele encontra o ortodoxo Padre Lucas, que lhe apresenta o lado mais obscuro de sua fé(n)</desc>
+    <credits>
+      <director>Mikaël Hafstrom</director>
+      <actor>Colin O'Donoghue</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Alice Braga</actor>
+      <actor>Rutger Hauer</actor>
+      <actor>Maria Grazia Cucinotta</actor>
+      <actor>Colin O'Donoghue</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906171500 -0300" stop="20180906191000 -0300" channel="HBO 2">
+    <title lang="pt">Professor Marston e as Mulheres-Maravilhas</title>
+    <desc lang="pt">A vida de Wiliam Marston, psicólogo e inventor de Harvard, que ajudou a tornar real o Detector de Mentiras e que também criou a Mulher-Maravilha, personagem dos quadrinhos, em 1941(n)</desc>
+    <credits>
+      <director>Angela Robinson</director>
+      <actor>Luke Evans</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Bella Heathcote</actor>
+      <actor>Connie Britton</actor>
+      <actor>Monica Giordano</actor>
+      <actor>JJ Feild</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906191000 -0300" stop="20180906201000 -0300" channel="HBO 2">
+    <title lang="pt">O Negro no Futebol Brasileiro</title>
+    <desc lang="pt">No início do século XX, impedidos de jogar nos clubes mais importantes e nos principais campeonatos, jovens negros desenvolvem sua própria maneira de jogar praticando futebol nos campos de várzea e dos subúrbios(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906201000 -0300" stop="20180906220000 -0300" channel="HBO 2">
+    <title lang="pt">Lego Ninjago: O Filme</title>
+    <desc lang="pt">Lloyd, Nya, Cole, Jay, Zane e Kai são jovens adolescentes, que dividem as tarefas escolares com o alter-ego como super-heróis ninja, sempre prontos a proteger a cidade de Ninjago dos ataques feitos pelo megavilão Garmadon(n)</desc>
+    <credits>
+      <director>Charlie Bean</director>
+      <director>Paul Fisher</director>
+      <actor>Vozes de Jackie Chan</actor>
+      <actor>Dave Franco</actor>
+      <actor>Fred Armisen</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Michael Peña</actor>
+      <actor>Abbi Jacobson</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906234500 -0300" channel="HBO 2">
+    <title lang="pt">Chips - O Filme</title>
+    <desc lang="pt">Jon é um motociclista que tenta salvar seu casamento, enquanto Frank é um agente que investiga o roubo onde alguns policiais estão envolvidos(n)</desc>
+    <credits>
+      <director>Dax Shepard</director>
+      <actor>Michael Peña</actor>
+      <actor>Dax Shepard</actor>
+      <actor>Vincent D'Onofrio</actor>
+      <actor>Adam Brody</actor>
+      <actor>Richard T. Jones</actor>
+      <actor>Jane Kaczmarek</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906013500 -0300" stop="20180906021000 -0300" channel="HBO Plus">
+    <title lang="pt">Vice</title>
+    <credits>
+      <director>David Mandel</director>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Felicia Pearson</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906021000 -0300" stop="20180906034500 -0300" channel="HBO Plus">
+    <title lang="pt">Festa da Salsicha</title>
+    <desc lang="pt">Tudo que os alimentos querem é ir para casa com os deuses humanos. Quando a salsicha Frank e seus amigos finalmente conseguem o feito, eles descobrem que serão devorados e entram em desespero(n)</desc>
+    <credits>
+      <director>Greg Tiernan</director>
+      <director>Conrad Vernon</director>
+      <actor>Vozes de Seth Rogen</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Alistair Abell</actor>
+      <actor>Iris Apatow</actor>
+      <actor>Michael Cera</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906034500 -0300" stop="20180906055000 -0300" channel="HBO Plus">
+    <title lang="pt">Blade - O Caçador de Vampiros</title>
+    <desc lang="pt">Neste filme baseado nas histórias em quadrinhos, Wesley Snipes é Blade, metade homem, metade vampiro, que busca vingança pela morte de sua mãe(n)</desc>
+    <credits>
+      <director>Stephen Norrington</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Stephen Dorff</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>N'Bushe Wright</actor>
+      <actor>Donal Logue</actor>
+      <actor>Udo Kier</actor>
+      <actor>Arly Jover</actor>
+      <actor>Traci Lords</actor>
+      <actor>Kevin Patrick Walls</actor>
+      <actor>Tim Guinee</actor>
+      <actor>Donna Wong</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906055000 -0300" stop="20180906072500 -0300" channel="HBO Plus">
+    <title lang="pt">Westworld: Onde Ninguém tem Alma</title>
+    <credits>
+      <director>Michael Crichton</director>
+      <actor>Yul Brynner</actor>
+      <actor>Richard Benjamin</actor>
+      <actor>James Brolin</actor>
+    </credits>
+    <date>1973</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906072500 -0300" stop="20180906084000 -0300" channel="HBO Plus">
+    <title lang="pt">Batman Vs. Duas-Caras</title>
+    <desc lang="pt">Quando um experimento para eliminar o mal dos criminosos de Gotham City falha, a cara do promotor Harvey Dent fica completamente desfigurada(n)</desc>
+    <credits>
+      <director>Rick Morales</director>
+      <actor>Vozes de Adam West</actor>
+      <actor>Burt Ward</actor>
+      <actor>William Shatner</actor>
+      <actor>Julie Newmar</actor>
+      <actor>Jeff Bergman</actor>
+      <actor>Sirena Irwin</actor>
+      <actor>Thomas Lennon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906084000 -0300" stop="20180906102500 -0300" channel="HBO Plus">
+    <title lang="pt">Expresso Polar</title>
+    <desc lang="pt">Na véspera de Natal, um garoto que não acredita mais em Papai Noel toma um trem com destino ao Pólo Norte, iniciando uma viagem incrível pelo universo que cerca o natal(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Tom Hanks</actor>
+      <actor>Leslie Harter Zemeckis</actor>
+      <actor>Eddie Deezen</actor>
+      <actor>Nona Gaye</actor>
+      <actor>Peter Scolari</actor>
+      <actor>Brendan King</actor>
+      <actor>Andy Pellick</actor>
+      <actor>Josh Eli</actor>
+      <actor>Mark Mendonça</actor>
+      <actor>Rolandas Hendricks</actor>
+      <actor>Mark Goodman</actor>
+      <actor>Jon Scott</actor>
+      <actor>Gregory Gast</actor>
+      <actor>Sean Scott</actor>
+      <actor>Gordon Hart</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906102500 -0300" stop="20180906120500 -0300" channel="HBO Plus">
+    <title lang="pt">Viagem ao Centro da Terra - O Filme</title>
+    <desc lang="pt">Durante uma viagem à Islândia, o cientista Trevor tenta encontrar seu irmão desaparecido e descobre um fantástico e ao mesmo tempo perigoso mundo perdido no centro da Terra(n)</desc>
+    <credits>
+      <director>Eric Brevig</director>
+      <actor>Brendan Fraser</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Anita Briem</actor>
+      <actor>Giancarlo Caltabiano</actor>
+      <actor>Garth Gilker</actor>
+      <actor>Kaniehtiio Horn</actor>
+      <actor>Frank Fontaine</actor>
+      <actor>Jane Wheeler</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906120500 -0300" stop="20180906135000 -0300" channel="HBO Plus">
+    <title lang="pt">Como se Fosse a Primeira Vez</title>
+    <desc lang="pt">O veterinário marinho, Henry Roth, é um mulherengo incorrigível. Mas agora está apaixonado pela adorável Lucy Whitmore. O problema é que toda manhã ela esquece tudo que aconteceu no dia anterior, inclusive que o conhece(n)</desc>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Adam Sandler</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Sean Astin</actor>
+      <actor>Lusia Strus</actor>
+      <actor>Dan Aykroyd</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906135000 -0300" stop="20180906160000 -0300" channel="HBO Plus">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Enquanto planeja seu próximo trabalho, um experiente ladrão tenta controlar seus sentimentos por uma gerente de banco que está ligada a um de seus roubos anteriores, enquanto um agente da FBI quer acabar com ele e sua equipe(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Blake Lively</actor>
+      <actor>Titus Welliver</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906160000 -0300" stop="20180906180500 -0300" channel="HBO Plus">
+    <title lang="pt">Blade - O Caçador de Vampiros</title>
+    <desc lang="pt">Neste filme baseado nas histórias em quadrinhos, Wesley Snipes é Blade, metade homem, metade vampiro, que busca vingança pela morte de sua mãe(n)</desc>
+    <credits>
+      <director>Stephen Norrington</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Stephen Dorff</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>N'Bushe Wright</actor>
+      <actor>Donal Logue</actor>
+      <actor>Udo Kier</actor>
+      <actor>Arly Jover</actor>
+      <actor>Traci Lords</actor>
+      <actor>Kevin Patrick Walls</actor>
+      <actor>Tim Guinee</actor>
+      <actor>Donna Wong</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906180500 -0300" stop="20180906191000 -0300" channel="HBO Plus">
+    <title lang="pt">Fora do Armário: A Nova Geração</title>
+    <desc lang="pt">Três jovens transgêneros com diferentes trajetórias - mas o mesmo difícil caminho de aflições e busca de aceitação(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906191000 -0300" stop="20180906201500 -0300" channel="HBO Plus">
+    <title lang="pt">Fora do Armário: Filhos</title>
+    <desc lang="pt">Quando resolveu assumir que era lésbica e que amava Eleni - com quem tem um relacionamento que já dura duas décadas -, Suzy teve de enfrentar um duro divórcio e a perda da guarda das filhas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906201500 -0300" stop="20180906220000 -0300" channel="HBO Plus">
+    <title lang="pt">Férias Frustradas</title>
+    <desc lang="pt">Rusty Griswold é casado com Debbie e tem dois filhos, James e Kevin. Disposto a se divertir com a família, Rusty decide seguir os passos de seu pai e comandar uma ida ao parque de diversões Wally World(n)</desc>
+    <credits>
+      <director>John Francis Daley</director>
+      <director>Jonathan M. Goldstein</director>
+      <actor>Ed Helms</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Skyler Gisondo</actor>
+      <actor>Steele Stebbins</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Chevy Chase</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906234500 -0300" channel="HBO Plus">
+    <title lang="pt">Como se Fosse a Primeira Vez</title>
+    <desc lang="pt">O veterinário marinho, Henry Roth, é um mulherengo incorrigível. Mas agora está apaixonado pela adorável Lucy Whitmore. O problema é que toda manhã ela esquece tudo que aconteceu no dia anterior, inclusive que o conhece(n)</desc>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Adam Sandler</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Sean Astin</actor>
+      <actor>Lusia Strus</actor>
+      <actor>Dan Aykroyd</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906234500 -0300" stop="20180907004600 -0300" channel="HBO Plus">
+    <title lang="pt">Um Salão do Barulho 3</title>
+    <desc lang="pt">Dez anos se passaram após a última ida a barbearia de Calvin. Seus amigos de longa data continuam os mesmos. Uma onda de violência começa a tomar conta do bairro, fazendo com que os moradores se juntem para salvar a comunidade(n)</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>Ice Cube</actor>
+      <actor>Regina Hall</actor>
+      <actor>Anthony Anderson</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Sean Patrick Thomas</actor>
+      <actor>Eve</actor>
+      <actor>Anthony Anderson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906013500 -0300" stop="20180906021000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Vice</title>
+    <credits>
+      <director>David Mandel</director>
+      <actor>Michael Kenneth Williams</actor>
+      <actor>Felicia Pearson</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906021000 -0300" stop="20180906034500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Festa da Salsicha</title>
+    <desc lang="pt">Tudo que os alimentos querem é ir para casa com os deuses humanos. Quando a salsicha Frank e seus amigos finalmente conseguem o feito, eles descobrem que serão devorados e entram em desespero(n)</desc>
+    <credits>
+      <director>Greg Tiernan</director>
+      <director>Conrad Vernon</director>
+      <actor>Vozes de Seth Rogen</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Jonah Hill</actor>
+      <actor>Alistair Abell</actor>
+      <actor>Iris Apatow</actor>
+      <actor>Michael Cera</actor>
+      <actor>Sam Vincent</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906034500 -0300" stop="20180906055000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Blade - O Caçador de Vampiros</title>
+    <desc lang="pt">Neste filme baseado nas histórias em quadrinhos, Wesley Snipes é Blade, metade homem, metade vampiro, que busca vingança pela morte de sua mãe(n)</desc>
+    <credits>
+      <director>Stephen Norrington</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Stephen Dorff</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>N'Bushe Wright</actor>
+      <actor>Donal Logue</actor>
+      <actor>Udo Kier</actor>
+      <actor>Arly Jover</actor>
+      <actor>Traci Lords</actor>
+      <actor>Kevin Patrick Walls</actor>
+      <actor>Tim Guinee</actor>
+      <actor>Donna Wong</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906055000 -0300" stop="20180906072500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Westworld: Onde Ninguém tem Alma</title>
+    <credits>
+      <director>Michael Crichton</director>
+      <actor>Yul Brynner</actor>
+      <actor>Richard Benjamin</actor>
+      <actor>James Brolin</actor>
+    </credits>
+    <date>1973</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906072500 -0300" stop="20180906084000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Batman Vs. Duas-Caras</title>
+    <desc lang="pt">Quando um experimento para eliminar o mal dos criminosos de Gotham City falha, a cara do promotor Harvey Dent fica completamente desfigurada(n)</desc>
+    <credits>
+      <director>Rick Morales</director>
+      <actor>Vozes de Adam West</actor>
+      <actor>Burt Ward</actor>
+      <actor>William Shatner</actor>
+      <actor>Julie Newmar</actor>
+      <actor>Jeff Bergman</actor>
+      <actor>Sirena Irwin</actor>
+      <actor>Thomas Lennon</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906084000 -0300" stop="20180906102500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Expresso Polar</title>
+    <desc lang="pt">Na véspera de Natal, um garoto que não acredita mais em Papai Noel toma um trem com destino ao Pólo Norte, iniciando uma viagem incrível pelo universo que cerca o natal(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Tom Hanks</actor>
+      <actor>Leslie Harter Zemeckis</actor>
+      <actor>Eddie Deezen</actor>
+      <actor>Nona Gaye</actor>
+      <actor>Peter Scolari</actor>
+      <actor>Brendan King</actor>
+      <actor>Andy Pellick</actor>
+      <actor>Josh Eli</actor>
+      <actor>Mark Mendonça</actor>
+      <actor>Rolandas Hendricks</actor>
+      <actor>Mark Goodman</actor>
+      <actor>Jon Scott</actor>
+      <actor>Gregory Gast</actor>
+      <actor>Sean Scott</actor>
+      <actor>Gordon Hart</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906102500 -0300" stop="20180906120500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Viagem ao Centro da Terra - O Filme</title>
+    <desc lang="pt">Durante uma viagem à Islândia, o cientista Trevor tenta encontrar seu irmão desaparecido e descobre um fantástico e ao mesmo tempo perigoso mundo perdido no centro da Terra(n)</desc>
+    <credits>
+      <director>Eric Brevig</director>
+      <actor>Brendan Fraser</actor>
+      <actor>Josh Hutcherson</actor>
+      <actor>Anita Briem</actor>
+      <actor>Giancarlo Caltabiano</actor>
+      <actor>Garth Gilker</actor>
+      <actor>Kaniehtiio Horn</actor>
+      <actor>Frank Fontaine</actor>
+      <actor>Jane Wheeler</actor>
+    </credits>
+    <date>2008</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906120500 -0300" stop="20180906135000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Como se Fosse a Primeira Vez</title>
+    <desc lang="pt">O veterinário marinho, Henry Roth, é um mulherengo incorrigível. Mas agora está apaixonado pela adorável Lucy Whitmore. O problema é que toda manhã ela esquece tudo que aconteceu no dia anterior, inclusive que o conhece(n)</desc>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Adam Sandler</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Sean Astin</actor>
+      <actor>Lusia Strus</actor>
+      <actor>Dan Aykroyd</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906135000 -0300" stop="20180906160000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Enquanto planeja seu próximo trabalho, um experiente ladrão tenta controlar seus sentimentos por uma gerente de banco que está ligada a um de seus roubos anteriores, enquanto um agente da FBI quer acabar com ele e sua equipe(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jeremy Renner</actor>
+      <actor>Blake Lively</actor>
+      <actor>Titus Welliver</actor>
+      <actor>Pete Postlethwaite</actor>
+    </credits>
+    <date>2010</date>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906160000 -0300" stop="20180906180500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Blade - O Caçador de Vampiros</title>
+    <desc lang="pt">Neste filme baseado nas histórias em quadrinhos, Wesley Snipes é Blade, metade homem, metade vampiro, que busca vingança pela morte de sua mãe(n)</desc>
+    <credits>
+      <director>Stephen Norrington</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Stephen Dorff</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>N'Bushe Wright</actor>
+      <actor>Donal Logue</actor>
+      <actor>Udo Kier</actor>
+      <actor>Arly Jover</actor>
+      <actor>Traci Lords</actor>
+      <actor>Kevin Patrick Walls</actor>
+      <actor>Tim Guinee</actor>
+      <actor>Donna Wong</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906180500 -0300" stop="20180906191000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Fora do Armário: A Nova Geração</title>
+    <desc lang="pt">Três jovens transgêneros com diferentes trajetórias - mas o mesmo difícil caminho de aflições e busca de aceitação(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906191000 -0300" stop="20180906201500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Fora do Armário: Filhos</title>
+    <desc lang="pt">Quando resolveu assumir que era lésbica e que amava Eleni - com quem tem um relacionamento que já dura duas décadas -, Suzy teve de enfrentar um duro divórcio e a perda da guarda das filhas(n)</desc>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906201500 -0300" stop="20180906220000 -0300" channel="HBO Plus *e">
+    <title lang="pt">Férias Frustradas</title>
+    <desc lang="pt">Rusty Griswold é casado com Debbie e tem dois filhos, James e Kevin. Disposto a se divertir com a família, Rusty decide seguir os passos de seu pai e comandar uma ida ao parque de diversões Wally World(n)</desc>
+    <credits>
+      <director>John Francis Daley</director>
+      <director>Jonathan M. Goldstein</director>
+      <actor>Ed Helms</actor>
+      <actor>Christina Applegate</actor>
+      <actor>Skyler Gisondo</actor>
+      <actor>Steele Stebbins</actor>
+      <actor>Leslie Mann</actor>
+      <actor>Chris Hemsworth</actor>
+      <actor>Chevy Chase</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906234500 -0300" channel="HBO Plus *e">
+    <title lang="pt">Como se Fosse a Primeira Vez</title>
+    <desc lang="pt">O veterinário marinho, Henry Roth, é um mulherengo incorrigível. Mas agora está apaixonado pela adorável Lucy Whitmore. O problema é que toda manhã ela esquece tudo que aconteceu no dia anterior, inclusive que o conhece(n)</desc>
+    <credits>
+      <director>Peter Segal</director>
+      <actor>Adam Sandler</actor>
+      <actor>Drew Barrymore</actor>
+      <actor>Rob Schneider</actor>
+      <actor>Sean Astin</actor>
+      <actor>Lusia Strus</actor>
+      <actor>Dan Aykroyd</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906234500 -0300" stop="20180907004600 -0300" channel="HBO Plus *e">
+    <title lang="pt">Um Salão do Barulho 3</title>
+    <desc lang="pt">Dez anos se passaram após a última ida a barbearia de Calvin. Seus amigos de longa data continuam os mesmos. Uma onda de violência começa a tomar conta do bairro, fazendo com que os moradores se juntem para salvar a comunidade(n)</desc>
+    <credits>
+      <director>Malcolm D. Lee</director>
+      <actor>Ice Cube</actor>
+      <actor>Regina Hall</actor>
+      <actor>Anthony Anderson</actor>
+      <actor>Cedric the Entertainer</actor>
+      <actor>Sean Patrick Thomas</actor>
+      <actor>Eve</actor>
+      <actor>Anthony Anderson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906000500 -0300" stop="20180906013300 -0300" channel="HBO Family">
+    <title lang="pt">Meninas dos Olhos</title>
+    <desc lang="pt">A jovem Bailey sofre para se adaptar após um acidente que a deixou sem visão. Desesperados, seus pais buscam qualquer meio que a ajude a lidar com sua nova condição, incluindo Apple, um pequeno cavalo treinado para ser seu guia(n)</desc>
+    <credits>
+      <director>Castille Landon</director>
+      <actor>Amy Smart</actor>
+      <actor>Burt Reynolds</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Avery Arendes</actor>
+      <actor>Charlie Barnett</actor>
+      <actor>Charlie Barnett</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906013300 -0300" stop="20180906032700 -0300" channel="HBO Family">
+    <title lang="pt">Um Lugar no Coração</title>
+    <desc lang="pt">Durante a Grande Depressão Americana, numa pequena cidade do estado do Texas, uma dona de casa resolve iniciar uma plantação de algodão para sustentar os filhos e pagar as dívidas deixadas pelo marido recém-falecido(n)</desc>
+    <credits>
+      <director>Robert Benton</director>
+      <actor>Sally Field</actor>
+      <actor>Lindsay Crouse</actor>
+      <actor>Ed Harris</actor>
+      <actor>Amy Madigan</actor>
+      <actor>John Malkovich</actor>
+      <actor>Danny Glover</actor>
+      <actor>Terry O'Quinn</actor>
+    </credits>
+    <date>1984</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906032700 -0300" stop="20180906044800 -0300" channel="HBO Family">
+    <title lang="pt">Tom e Jerry: Willy Wonka e a Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Tom e Jerry decidem ajudar o pobre Charlie Bucket a conseguir o bilhete dourado para conhecer a fábrica de Willy Wonka, após o jovem compartilhar com eles um pedaço de pão(n)</desc>
+    <credits>
+      <director>Spike Brandt</director>
+      <actor>Vozes de JP Karliak</actor>
+      <actor>Jess Harnell</actor>
+      <actor>Lincoln Melcher</actor>
+      <actor>Jeff Bergman</actor>
+      <actor>Kate Higgins</actor>
+      <actor>Lori Alan</actor>
+      <actor>Sean Schemmel</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906044800 -0300" stop="20180906060400 -0300" channel="HBO Family">
+    <title lang="pt">Lego Scooby-doo - Os Fantasmas de Hollywood</title>
+    <desc lang="pt">Scooby e sua turma vão para Hollywood e tentam resolver o mistério de um antigo estúdio de cinema que foi invadido por monstros que apareceram em seus clássicos filmes(n)</desc>
+    <credits>
+      <director>Rick Morales</director>
+      <actor>Vozes de Frank Welker</actor>
+      <actor>Matthew Lillard</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Kate Micucci</actor>
+      <actor>JB Blanc</actor>
+      <actor>Cassandra Peterson</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906060400 -0300" stop="20180906072800 -0300" channel="HBO Family">
+    <title lang="pt">Os Jetsons e as Super-estrelas do Wwe</title>
+    <desc lang="pt">George descobre o lutador Big Show, congelado há 100 anos e que agora decide conquistar o mundo ao descobrir que no futuro a luta livre é praticada por robôs(n)</desc>
+    <credits>
+      <director>Anthony Bell</director>
+      <actor>Vozes de Jeff Bergman</actor>
+      <actor>JB Blanc</actor>
+      <actor>Michael Coulthard</actor>
+      <actor>Vince McMahon</actor>
+      <actor>Colby Lopez</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906072800 -0300" stop="20180906084700 -0300" channel="HBO Family">
+    <title lang="pt">Lego Scooby-Doo: O Golpe da Praia</title>
+    <desc lang="pt">Scooby-Doo e seus amigos estão a caminho de Blowout Beach para uma festa na praia, mas piratas fantasmas ameaçam arruinar as boas vibrações da turma(n)</desc>
+    <credits>
+      <director>Ethan Spaulding</director>
+      <actor>Vozes de Jeff Bennett</actor>
+      <actor>Grey DeLisle</actor>
+      <actor>Kate Higgins</actor>
+      <actor>Tom Kenny</actor>
+      <actor>Josh Keaton</actor>
+      <actor>Frank Welker</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906084700 -0300" stop="20180906105700 -0300" channel="HBO Family">
+    <title lang="pt">No Ritmo da Dança</title>
+    <desc lang="pt">Após a morte da mãe, Rafael vai trabalhar na escola de dança de John Burnett. Enquanto trabalha, observa os dançarinos, em especial a atraente Ruby(n)</desc>
+    <credits>
+      <director>Randa Haines</director>
+      <actor>Vanessa L. Williams</actor>
+      <actor>Chayanne</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Joan Plowright</actor>
+      <actor>Jane Krakowski</actor>
+      <actor>Beth Grant</actor>
+      <actor>Harry Groener</actor>
+      <actor>William Marquez</actor>
+      <actor>Scott Paetty</actor>
+      <actor>Rick Vlenzuela</actor>
+      <actor>Chaz Oswill</actor>
+      <actor>Liz Curtis</actor>
+      <actor>Bill Applebaum</actor>
+      <actor>Angelo Pagan</actor>
+      <actor>Victor Marcel</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906105700 -0300" stop="20180906130000 -0300" channel="HBO Family">
+    <title lang="pt">Preto ou Branco</title>
+    <desc lang="pt">Elliot é um avô que cria sua neta Eloise após a trágica morte de sua mãe. Os problemas começam quando Rowena, a avó paterna da menina, exige a custódia de Eloise e começa uma disputa entre as duas famílias(n)</desc>
+    <credits>
+      <director>Mike Binder</director>
+      <actor>Kevin Costner</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Paula Newsome</actor>
+      <actor>Bertha Bindewald</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906130000 -0300" stop="20180906145000 -0300" channel="HBO Family">
+    <title lang="pt">La Bamba</title>
+    <desc lang="pt">A vida da lenda do rock'n roll Richie Valens explode nas telas neste celebrado filme. La Bamba recria os emocionantes primeiros dias do rock e presta homenagem ao legado de um inesquecível talento que ultrapassou fronteiras(n)</desc>
+    <credits>
+      <director>Luis Valdez</director>
+      <actor>Lou Diamond Phillips</actor>
+      <actor>Esai Morales</actor>
+      <actor>Rosana DeSoto</actor>
+      <actor>Elizabeth Peña</actor>
+      <actor>Danielle von Zerneck</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Rick Dees</actor>
+      <actor>Marshall Crenshaw</actor>
+      <actor>Howard Huntsberry</actor>
+      <actor>Brian Setzer</actor>
+      <actor>Daniel Valdez</actor>
+      <actor>Felipe Cantú</actor>
+      <actor>Eddie Frias</actor>
+      <actor>Mike Moroff</actor>
+      <actor>Geoffrey Rivas</actor>
+    </credits>
+    <date>1987</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906145000 -0300" stop="20180906161500 -0300" channel="HBO Family">
+    <title lang="pt">Os Jetsons e as Super-estrelas do Wwe</title>
+    <desc lang="pt">George descobre o lutador Big Show, congelado há 100 anos e que agora decide conquistar o mundo ao descobrir que no futuro a luta livre é praticada por robôs(n)</desc>
+    <credits>
+      <director>Anthony Bell</director>
+      <actor>Vozes de Jeff Bergman</actor>
+      <actor>JB Blanc</actor>
+      <actor>Michael Coulthard</actor>
+      <actor>Vince McMahon</actor>
+      <actor>Colby Lopez</actor>
+    </credits>
+    <date>2017</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906161500 -0300" stop="20180906180500 -0300" channel="HBO Family">
+    <title lang="pt">7 Minutos Depois da Meia-noite</title>
+    <desc lang="pt">Conor é um garoto de 13 anos de idade, com muitos problemas na vida. Seu pai é muito ausente, a mãe sofre um um câncer em fase terminal, a avó é uma megera(n)</desc>
+    <credits>
+      <director>J.A. Bayona</director>
+      <actor>Lewis MacDougall</actor>
+      <actor>Sigourney Weaver</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Toby Kebbell</actor>
+      <actor>Ben Moor</actor>
+      <actor>James Melville</actor>
+    </credits>
+    <date>2016</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906180500 -0300" stop="20180906200000 -0300" channel="HBO Family">
+    <title lang="pt">Deus Não Está Morto</title>
+    <desc lang="pt">Josh é um estudante cristão inscrito na classe de filosofia do professor Radisson, um ateu que exige que seus alunos aceitem que Deus não existe. Josh não o aceita e Radisson o desafia a defender seus argumentos(n)</desc>
+    <credits>
+      <director>Harold Cronk</director>
+      <actor>Kevin Sorbo</actor>
+      <actor>David A.R. White</actor>
+      <actor>Dean Cain</actor>
+      <actor>Shane Harper</actor>
+      <actor>Jody Davis</actor>
+      <actor>Jeff Frankenstein</actor>
+      <actor>Duncan Phillips</actor>
+    </credits>
+    <date>2014</date>
+    <rating system="BR">
+      <value>7+</value>
+    </rating>
+  </programme>
+  <programme start="20180906200000 -0300" stop="20180906220300 -0300" channel="HBO Family">
+    <title lang="pt">Preto ou Branco</title>
+    <desc lang="pt">Elliot é um avô que cria sua neta Eloise após a trágica morte de sua mãe. Os problemas começam quando Rowena, a avó paterna da menina, exige a custódia de Eloise e começa uma disputa entre as duas famílias(n)</desc>
+    <credits>
+      <director>Mike Binder</director>
+      <actor>Kevin Costner</actor>
+      <actor>Octavia Spencer</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Jennifer Ehle</actor>
+      <actor>Paula Newsome</actor>
+      <actor>Bertha Bindewald</actor>
+    </credits>
+    <date>2015</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220300 -0300" stop="20180907000500 -0300" channel="HBO Family">
+    <title lang="pt">No Ritmo da Dança</title>
+    <desc lang="pt">Após a morte da mãe, Rafael vai trabalhar na escola de dança de John Burnett. Enquanto trabalha, observa os dançarinos, em especial a atraente Ruby(n)</desc>
+    <credits>
+      <director>Randa Haines</director>
+      <actor>Vanessa L. Williams</actor>
+      <actor>Chayanne</actor>
+      <actor>Kris Kristofferson</actor>
+      <actor>Joan Plowright</actor>
+      <actor>Jane Krakowski</actor>
+      <actor>Beth Grant</actor>
+      <actor>Harry Groener</actor>
+      <actor>William Marquez</actor>
+      <actor>Scott Paetty</actor>
+      <actor>Rick Vlenzuela</actor>
+      <actor>Chaz Oswill</actor>
+      <actor>Liz Curtis</actor>
+      <actor>Bill Applebaum</actor>
+      <actor>Angelo Pagan</actor>
+      <actor>Victor Marcel</actor>
+    </credits>
+    <date>1998</date>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180906001400 -0300" stop="20180906005000 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">A turma da Pied Piper está mais perto do que nunca de conseguir fama e fortuna(n)</desc>
+    <credits>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Martin Starr</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Katerina Baruffi</actor>
+      <actor>Bianca Bonciu</actor>
+      <actor>Anna Khaja</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906005000 -0300" stop="20180906015400 -0300" channel="HBO Signature">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Leve meu coração quando se for(n)</desc>
+    <credits>
+      <director>Uta Briesewitz</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906015400 -0300" stop="20180906025800 -0300" channel="HBO Signature">
+    <title lang="pt">The Deuce</title>
+    <desc lang="pt">A polícia toma medidas severas no final do ano e isto cria uma oportunidade para Vincent e Bobby(n)</desc>
+    <credits>
+      <director>Roxann Dawson</director>
+      <actor>James Franco</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Gary Carr</actor>
+      <actor>Margarita Levieva</actor>
+      <actor>Dominique Fishback</actor>
+      <actor>Emily Meade</actor>
+      <actor>Gbenga Akinnagbe</actor>
+      <actor>Gilliard Jr. Lawrence</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180906025800 -0300" stop="20180906033400 -0300" channel="HBO Signature">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Após um rompimento amoroso, Issa experimenta os desafios da vida de uma garota solteira e de seu novo trabalho, enquanto Molly se esforça para melhorar seu futuro, sua carreira e a si mesma nesta comédia contemporânea e intensa(n)</desc>
+    <credits>
+      <actor>Issa Rae</actor>
+      <actor>Yvonne Orji</actor>
+      <actor>Neil Brown Jr.</actor>
+      <actor>Beatrice Hernandez</actor>
+      <actor>Karina Junker</actor>
+      <actor>Natasha Rothwell</actor>
+      <actor>Amanda Seales</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906033400 -0300" stop="20180906041000 -0300" channel="HBO Signature">
+    <title lang="pt">Barry</title>
+    <desc lang="pt">Barry, um matador de aluguel com depressão, é contratado para asassinar um aspirante a ator(n)</desc>
+    <credits>
+      <director>Bill Hader</director>
+      <actor>Bill Hader</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Stephen Root</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Anthony Carrigan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906041000 -0300" stop="20180906044300 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">A turma da Pied Piper está mais perto do que nunca de conseguir fama e fortuna(n)</desc>
+    <credits>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Martin Starr</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Katerina Baruffi</actor>
+      <actor>Bianca Bonciu</actor>
+      <actor>Anna Khaja</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906044300 -0300" stop="20180906073300 -0300" channel="HBO Signature">
+    <title lang="pt">Stalin</title>
+    <desc lang="pt">A vida e a carreira do ditador soviético brutal, Josef Stalin(n)</desc>
+    <credits>
+      <director>Ivan Passer</director>
+      <actor>Robert Duvall</actor>
+      <actor>Julia Ormond</actor>
+      <actor>Joan Plowright</actor>
+      <actor>Maximilian Schell</actor>
+      <actor>Jeroen Krabbé</actor>
+      <actor>Joan Plowright</actor>
+      <actor>Frank Finlay</actor>
+    </credits>
+    <date>1992</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906073300 -0300" stop="20180906080300 -0300" channel="HBO Signature">
+    <title lang="pt">Barry</title>
+    <desc lang="pt">Após algumas notícias impactantes, Gene orienta sua classe a expressar seus sentimentos através da arte. Disposto a demitir-se do emprego e deixar o passado para trás, Barry tenta não se deixar enganar por Fuches e pelos chechenos(n)</desc>
+    <credits>
+      <director>Bill Hader</director>
+      <actor>Bill Hader</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Stephen Root</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Anthony Carrigan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906080300 -0300" stop="20180906083500 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Em pânico por estar liderando uma equipe muito maior, Richard encontra-se gerenciando uma série de pequenos conflitos para unir seus novos funcionários(n)</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Martin Starr</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Katerina Baruffi</actor>
+      <actor>Bianca Bonciu</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Rachel Rosenbloom</actor>
+      <actor>Chris Williams</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906083500 -0300" stop="20180906094000 -0300" channel="HBO Signature">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Há beleza em quem somos. Não deveríamos tentar sobreviver também(n)</desc>
+    <credits>
+      <director>Stephen Williams</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906094000 -0300" stop="20180906114500 -0300" channel="HBO Signature">
+    <title lang="pt">Um Homem Determinado</title>
+    <desc lang="pt">Único americano a presidir os EUA quatro vezes, Roosevelt comandou o país durante a Grande Depressão e a II Guerra Mundial. Mas uma poliomielite interrompeu sua carreira política(n)</desc>
+    <credits>
+      <director>Joseph Sargent</director>
+      <actor>Kenneth Branagh</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Kathy Bates</actor>
+      <actor>David Paymer</actor>
+      <actor>Tim Blake Nelson</actor>
+      <actor>Jane Alexander</actor>
+      <actor>Matt O'Leary</actor>
+      <actor>Matt Maloi</actor>
+      <actor>Andrew Davoli</actor>
+      <actor>Melissa Ponzio</actor>
+      <actor>Mike Pniewsky</actor>
+    </credits>
+    <date>2005</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906114500 -0300" stop="20180906121500 -0300" channel="HBO Signature">
+    <title lang="pt">Barry</title>
+    <desc lang="pt">Após algumas notícias impactantes, Gene orienta sua classe a expressar seus sentimentos através da arte. Disposto a demitir-se do emprego e deixar o passado para trás, Barry tenta não se deixar enganar por Fuches e pelos chechenos(n)</desc>
+    <credits>
+      <director>Bill Hader</director>
+      <actor>Bill Hader</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Stephen Root</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Anthony Carrigan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906121500 -0300" stop="20180906124800 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Em pânico por estar liderando uma equipe muito maior, Richard encontra-se gerenciando uma série de pequenos conflitos para unir seus novos funcionários(n)</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Martin Starr</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Katerina Baruffi</actor>
+      <actor>Bianca Bonciu</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Rachel Rosenbloom</actor>
+      <actor>Chris Williams</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906124800 -0300" stop="20180906135000 -0300" channel="HBO Signature">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Há beleza em quem somos. Não deveríamos tentar sobreviver também(n)</desc>
+    <credits>
+      <director>Stephen Williams</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906135000 -0300" stop="20180906155300 -0300" channel="HBO Signature">
+    <title lang="pt">Cobaias</title>
+    <desc lang="pt">Em 1932, na Georgia, o governo federal lançou um estudo médico chamado The Tuskegee Study para negros portadores de sífilis não tratada(n)</desc>
+    <credits>
+      <director>Joseph Sargent</director>
+      <actor>Alfre Woodard</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Craig Sheffer</actor>
+      <actor>Joe Morton</actor>
+      <actor>Obba Babatundé</actor>
+      <actor>Von Coulter</actor>
+      <actor>Thom Gosson Jr.</actor>
+      <actor>Ossie Davis</actor>
+      <actor>Tommy Creswell</actor>
+      <actor>Judson Vaughn</actor>
+    </credits>
+    <date>1997</date>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180906155300 -0300" stop="20180906162300 -0300" channel="HBO Signature">
+    <title lang="pt">Barry</title>
+    <desc lang="pt">Após algumas notícias impactantes, Gene orienta sua classe a expressar seus sentimentos através da arte. Disposto a demitir-se do emprego e deixar o passado para trás, Barry tenta não se deixar enganar por Fuches e pelos chechenos(n)</desc>
+    <credits>
+      <director>Bill Hader</director>
+      <actor>Bill Hader</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Stephen Root</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Anthony Carrigan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906162300 -0300" stop="20180906165500 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Em pânico por estar liderando uma equipe muito maior, Richard encontra-se gerenciando uma série de pequenos conflitos para unir seus novos funcionários(n)</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Martin Starr</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Katerina Baruffi</actor>
+      <actor>Bianca Bonciu</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Rachel Rosenbloom</actor>
+      <actor>Chris Williams</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906165500 -0300" stop="20180906180000 -0300" channel="HBO Signature">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Há beleza em quem somos. Não deveríamos tentar sobreviver também(n)</desc>
+    <credits>
+      <director>Stephen Williams</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906180000 -0300" stop="20180906195500 -0300" channel="HBO Signature">
+    <title lang="pt">Quase Deuses</title>
+    <desc lang="pt">Um ambicioso cirurgião branco e um talentoso carpinteiro negro desenvolvem uma técnica que revoluciona a cirurgia de coração. Embora trabalhem lado a lado no centro cirúrgico, os dois não estão lado a lado diante da sociedade(n)</desc>
+    <credits>
+      <director>Joseph Sargent</director>
+      <actor>Alan Rickman</actor>
+      <actor>Mos Def</actor>
+      <actor>Mary Stuart Masterson</actor>
+      <actor>Kyra Sedgwick</actor>
+      <actor>Merritt Wever</actor>
+    </credits>
+    <date>2004</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180906195500 -0300" stop="20180906202500 -0300" channel="HBO Signature">
+    <title lang="pt">Barry</title>
+    <desc lang="pt">Após algumas notícias impactantes, Gene orienta sua classe a expressar seus sentimentos através da arte. Disposto a demitir-se do emprego e deixar o passado para trás, Barry tenta não se deixar enganar por Fuches e pelos chechenos(n)</desc>
+    <credits>
+      <director>Bill Hader</director>
+      <actor>Bill Hader</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Stephen Root</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Anthony Carrigan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906202500 -0300" stop="20180906205800 -0300" channel="HBO Signature">
+    <title lang="pt">Silicon Valley</title>
+    <desc lang="pt">Em pânico por estar liderando uma equipe muito maior, Richard encontra-se gerenciando uma série de pequenos conflitos para unir seus novos funcionários(n)</desc>
+    <credits>
+      <director>Mike Judge</director>
+      <actor>Thomas Middleditch</actor>
+      <actor>T.J. Miller</actor>
+      <actor>Martin Starr</actor>
+      <actor>Kumail Nanjiani</actor>
+      <actor>Katerina Baruffi</actor>
+      <actor>Bianca Bonciu</actor>
+      <actor>Anna Khaja</actor>
+      <actor>Rachel Rosenbloom</actor>
+      <actor>Chris Williams</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906205800 -0300" stop="20180906220000 -0300" channel="HBO Signature">
+    <title lang="pt">Westworld</title>
+    <desc lang="pt">Há beleza em quem somos. Não deveríamos tentar sobreviver também(n)</desc>
+    <credits>
+      <director>Stephen Williams</director>
+      <actor>Tessa Thompson</actor>
+      <actor>Evan Rachel Wood</actor>
+      <actor>Luke Hemsworth</actor>
+      <actor>Jimmi Simpson</actor>
+      <actor>James Marsden</actor>
+      <actor>Ronnie Gene Blevins</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906220000 -0300" stop="20180906230200 -0300" channel="HBO Signature">
+    <title lang="pt">The Deuce</title>
+    <desc lang="pt">Os empresários do The Deuce temem que o negócio fique obsoleto, Candy vê uma nova oportunidade e Vincent enfrenta o passado de Abby(n)</desc>
+    <credits>
+      <director>James Franco</director>
+      <actor>James Franco</actor>
+      <actor>Maggie Gyllenhaal</actor>
+      <actor>Gary Carr</actor>
+      <actor>Margarita Levieva</actor>
+      <actor>Dominique Fishback</actor>
+      <actor>Emily Meade</actor>
+      <actor>Gbenga Akinnagbe</actor>
+      <actor>Gilliard Jr. Lawrence</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="BR">
+      <value>15+</value>
+    </rating>
+  </programme>
+  <programme start="20180906230200 -0300" stop="20180906233700 -0300" channel="HBO Signature">
+    <title lang="pt">Insecure</title>
+    <desc lang="pt">Após um rompimento amoroso, Issa experimenta os desafios da vida de uma garota solteira e de seu novo trabalho, enquanto Molly se esforça para melhorar seu futuro, sua carreira e a si mesma nesta comédia contemporânea e intensa(n)</desc>
+    <credits>
+      <director>Prentice Penny</director>
+      <actor>Issa Rae,Yvonne Orji</actor>
+      <actor>Neil Brown Jr.</actor>
+      <actor>Beatrice Hernandez</actor>
+      <actor>Karina Junker</actor>
+      <actor>Judah Nelson</actor>
+      <actor>Cavin Mohrhardt</actor>
+    </credits>
+    <date>2017</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180906233700 -0300" stop="20180907001400 -0300" channel="HBO Signature">
+    <title lang="pt">Barry</title>
+    <desc lang="pt">Após algumas notícias impactantes, Gene orienta sua classe a expressar seus sentimentos através da arte. Disposto a demitir-se do emprego e deixar o passado para trás, Barry tenta não se deixar enganar por Fuches e pelos chechenos(n)</desc>
+    <credits>
+      <director>Bill Hader</director>
+      <actor>Bill Hader</actor>
+      <actor>Henry Winkler</actor>
+      <actor>Stephen Root</actor>
+      <actor>Sarah Goldberg</actor>
+      <actor>Glenn Fleshler</actor>
+      <actor>Anthony Carrigan</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+</tv>
